@@ -1,0 +1,9 @@
+d={
+    1:{"Name":"Abdul","Branch":"CSE","Sem":"3rd","CGPA":9},
+    2:{"Name":"Kadir","Branch":"CE","Sem":"3rd","CGPA":4},
+    3:{"Name":"Ankit","Branch":"ECE","Sem":"5rd","CGPA":9.5},
+}
+print(d)
+print(d[2]["Name"])
+print(d[3]["Branch"])
+print(d[1]["CGPA"])
